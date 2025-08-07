@@ -1,0 +1,12 @@
+.formContainer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.input{
+    padding-left: 10px;
+    border: none;
+    border-radius: 8px;
+    margin-right: 15px;
+}

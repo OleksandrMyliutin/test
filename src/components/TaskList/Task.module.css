@@ -1,0 +1,16 @@
+.listItem{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 20px;
+    border-radius: 8px;
+    border: 2px solid white;
+    transition: border 0.6s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.listItem:hover{
+    border: 2px solid rgb(180, 180, 180);
+}
+.paragraph{
+    font-weight: bold;
+}
